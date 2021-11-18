@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    display: flex;
+    flex-direction: column;
+}
+
+.intro {
+    background-color: #1f2937;
+}
+
+
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.footer {
+    background-color: #1f2937;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    margin-left: auto;
+}
